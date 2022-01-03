@@ -1,2 +1,2 @@
 # ColoringSimulation
-**Simulation link** 👉 
+**Simulation link and doc ** 👉 https://ccronheimer.github.io/ColoringSimulation/
